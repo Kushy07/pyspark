@@ -1,4 +1,4 @@
-# Data Analysis Project
+# Useful functions in Pyspark
 
 ## 📌 Overview
 This repository contains analysis of different datasets using Pyspark.
